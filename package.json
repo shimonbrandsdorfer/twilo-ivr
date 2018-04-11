@@ -1,0 +1,24 @@
+{
+  "name": "twilio-ivr",
+  "version": "1.0.0",
+  "description": "A a sample handler for a IVR system with twilio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimonbrandsdorfer/twilo-ivr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimonbrandsdorfer/twilo-ivr/issues"
+  },
+  "homepage": "https://github.com/shimonbrandsdorfer/twilo-ivr#readme",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "twilio": "^3.14.0"
+  }
+}
